@@ -376,6 +376,7 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
@@ -875,3 +876,5 @@ body {
     webkit-tap-highlight-color: #1abc9c;
 
 }
+
+.special {height: 300px;}
